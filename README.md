@@ -1,2 +1,2 @@
 # Scorpify
-Scorpify project that probably will never been finished.
+Scorpify project that probably will never be finished.
